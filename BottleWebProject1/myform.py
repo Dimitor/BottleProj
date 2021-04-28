@@ -11,7 +11,7 @@ def my_form():
         return "Question field is not filled"
     if (mail == ""):
         return "Mail field is not filled"
-    matchres = re.findall(r"^\S+@\S+(\.\S+)+$", mail)
+    matchres = re.findall(r"^[A-Za-z0-9]+@[A-Za-z0-9]+(\.[A-Za-z0-9]+)+$", mail)
     if (len(matchres) == 0 or matchres[0] == None):
         return "Your mail have invalid format"
     questions[mail] = question

@@ -3,18 +3,18 @@
         "name": "72andsunny",
         "description": "Criminal optimists of Internet",
         "address": "USA, city Veshkajma, st. Altajskij 1, 193",
-        "specialties": "agricultural"
+        "phone": "+1 (900) 157-35-28"
     },
     {
         "name": "StrawberryFrog",
         "description": "We hire frogs for harvesting",
         "address": "Russia, g. Biryulyusy, ul. Desyatinnaya 3, 114",
-        "specialties": "agricultural"
+        "phone": "+7 (998) 558-46-63"
     },
     {
         "name": "Hello Viking",
         "description": "The last bank for vikings (we accept dirham)",
         "address": "Northern Jutland, Hobro, Fyrkat",
-        "specialties": "students of agricultural specialties"
+        "phone": "+45 (977) 851-21-10"
     }
 ]

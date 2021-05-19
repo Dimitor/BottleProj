@@ -5,7 +5,7 @@ This script runs the application using a development server.
 import bottle
 import os
 import sys
-import myform 
+import handlers
 import companiesAPI
 
 # routes contains the HTTP handlers for our server and must be imported.

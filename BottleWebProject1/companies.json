@@ -1,0 +1,20 @@
+[
+    {
+        "name": "72andsunny",
+        "description": "Criminal optimists of Internet",
+        "address": "USA, city Veshkajma, st. Altajskij 1, 193",
+        "specialties": "agricultural"
+    },
+    {
+        "name": "StrawberryFrog",
+        "description": "We hire frogs for harvesting",
+        "address": "Russia, g. Biryulyusy, ul. Desyatinnaya 3, 114",
+        "specialties": "agricultural"
+    },
+    {
+        "name": "Hello Viking",
+        "description": "The last bank for vikings (we accept dirham)",
+        "address": "Northern Jutland, Hobro, Fyrkat",
+        "specialties": "students of agricultural specialties"
+    }
+]

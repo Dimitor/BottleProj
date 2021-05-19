@@ -32,17 +32,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
-    <Compile Include="myform.py">
+    <Compile Include="companiesAPI.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="handlers.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="routes.py" />
     <Compile Include="test_correct_mail.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="test_mail.py">
+    <Compile Include="checkers.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="test_uncorrect_mail.py">
+    <Compile Include="test_incorrect_mail.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -54,6 +57,7 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="libman.json" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.css" />
     <Content Include="static\content\bootstrap.min.css" />
@@ -78,6 +82,7 @@
     <Content Include="static\scripts\respond.min.js" />
     <Content Include="static\scripts\_references.js" />
     <Content Include="views\about.tpl" />
+    <Content Include="views\companies.tpl" />
     <Content Include="views\contact.tpl" />
     <Content Include="views\index.tpl" />
     <Content Include="views\layout.tpl" />

@@ -3,8 +3,8 @@ import test_mail
 
 class StringTestCase(unittest.TestCase):
     def setUp(self):
-        self.data = ["", "1", "m1@", "@mail", "gmail@some","mail@hmm@ftp.com"]
-    def test_uncorrect(self):
+        self.data = ["", "1", "m1@", "@mail", "gmail@some", "mail@hmm@ftp.com", "mail.gd@gm.cl", "some@mail..ru", "some@.any", "some @mail.su", "some@many.","some@mail.com.many"]
+    def test_incorrect(self):
         for i in self.data:
             self.assertFalse(test_mail.check_mail(i))
 

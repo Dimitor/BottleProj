@@ -1,0 +1,20 @@
+[
+    {
+        "id": "123",
+        "author": "Ander Spez",
+        "email": "andre@mail.ru",
+        "date": "2021-05-12",
+        "phone": "89117628448",
+        "title": "New Approach of coding!",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae sit accusantium debitis minus nesciunt provident sequi quam autem nobis natus cum, commodi eius. Assumenda dicta quo, rem fugiat vero quasi! Minima voluptates perferendis porro est ipsa. Praesentium illum ipsam quibusdam qui suscipit, ad rem nesciunt placeat. Odit ratione tempore distinctio quos quia voluptatum harum rerum! Nobis magnam commodi autem a!Quam, temporibus ratione odit aperiam, provident dolorem, optio ad saepe accusamus earum corrupti amet atque? Molestias, labore eveniet eius unde, quo odit quis modi possimus ad odio, sequi soluta cumque!Consequatur asperiores amet, hic quod animi sunt vero harum non accusantium laboriosam quidem debitis autem nesciunt dolorum nostrum dolor illum provident doloremque consectetur explicabo facilis! Itaque reprehenderit rerum accusamus obcaecati.Cumque, culpa adipisci consequatur pariatur maxime sint, eveniet qui esse modi enim incidunt unde dolorem sunt! Soluta quae aspernatur optio provident numquam id possimus. Expedita unde cumque assumenda consectetur consequatur!"
+    },
+    {
+        "id": "321",
+        "author": "Tatiana Smirnova",
+        "email": "tat@mail.ru",
+        "date": "2020-05-12",
+        "phone": "89117628448",
+        "title": "This is the WAY",
+        "text": "gtsdfgsdfgsdfgsdfgsdfg sit amet consectetur adipisicing elit. Recusandae sit accusantium debitis minus nesciunt provident sequi quam autem nobis natus cum, commodi eius. Assumenda dicta quo, rem fugiat vero quasi! Minima voluptates perferendis porro est ipsa. Praesentium illum ipsam quibusdam qui suscipit, ad rem nesciunt placeat. Odit ratione tempore distinctio quos quia voluptatum harum rerum! Nobis magnam commodi autem a!Quam, temporibus ratione odit aperiam, provident dolorem, optio ad saepe accusamus earum corrupti amet atque? Molestias, labore eveniet eius unde, quo odit quis modi possimus ad odio, sequi soluta cumque!Consequatur asperiores amet, hic quod animi sunt vero harum non accusantium laboriosam quidem debitis autem nesciunt dolorum nostrum dolor illum provident doloremque consectetur explicabo facilis! Itaque reprehenderit rerum accusamus obcaecati.Cumque, culpa adipisci consequatur pariatur maxime sint, eveniet qui esse modi enim incidunt unde dolorem sunt! Soluta quae aspernatur optio provident numquam id possimus. Expedita unde cumque assumenda consectetur consequatur!"
+    }
+]
